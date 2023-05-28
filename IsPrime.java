@@ -10,7 +10,7 @@ if (n%i ==0) {
 	System.out.println(n +"Is a not prime number");
 	break;
 }
-else if (n%i!=0){
+else {
 	System.out.println(n +"Is a prime number");
 	break;
 }
